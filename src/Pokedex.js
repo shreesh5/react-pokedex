@@ -12,7 +12,6 @@ import {
 } from '@material-ui/core';
 import axios from 'axios';
 import { toCapitalize } from './utils';
-import mockData from './mockData';
 
 const useStyles = makeStyles({
     pokedexContainer: {
